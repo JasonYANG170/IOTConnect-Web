@@ -2,7 +2,7 @@
     <h1>万物互联IOT网页端</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/IOTConnect-Web?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/IOTConnect-Web?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/JasonYANG170/IOTConnect-Web?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/IOTConnect-Web?logo=vue&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
