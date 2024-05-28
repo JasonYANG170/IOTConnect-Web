@@ -17,8 +17,8 @@
 ## 支持系统
 **WebView**设备  
 **IOS及Mac**设备  
-[Windows及Linux请点此处](https://github.com/JasonYANG170/IOT-ConnectPC)  
-[Android及HarmonyOS请点此处](https://github.com/JasonYANG170/IOT-ConnectAndroid)
+[Windows及Linux请点此处](https://github.com/JasonYANG170/IOTConnect-PC)  
+[Android及HarmonyOS请点此处](https://github.com/JasonYANG170/IOTConnect-Android)
 
 ## 功能
 - ✅ MQTT协议远程设备控制
