@@ -37,6 +37,10 @@
 
 ![image](https://github.com/JasonYANG170/IOTConnect-Web/assets/39414350/a0140149-95d5-4c17-991b-41faf5cade22)
 ![image](https://github.com/JasonYANG170/IOTConnect-Web/assets/39414350/b52cc739-ee45-4e5a-8bbe-ff8005091691)
+## 开源协议
+本项目遵循GPL2.0开源协议，使用本程序时请注明出处并进行版权声明  
+本项目完全支持个人爱好者的研究与学习，如果您有更好的建议，欢迎PR
+
 
 
 
